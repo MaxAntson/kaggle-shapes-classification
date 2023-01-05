@@ -1,0 +1,17 @@
+name: kaggle-shapes
+channels:
+- defaults
+- conda-forge
+dependencies:
+- jupyterlab==3.4.4
+- matplotlib==3.5.2
+- numpy==1.23.1
+- optuna==3.0.1
+- pandas==1.4.3
+- pip==22.2.1
+- python==3.9.9
+- scipy==1.8.1
+- skimage==0.19.3
+- sklearn==1.2.0
+- tensorflow==2.8.0
+- tqdm==4.64.0
